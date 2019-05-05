@@ -22,7 +22,15 @@ git clone git@github.com:adrenth/laravel-hydro-raindrop-demo.git
 composer install
 ```
 
-3. Register your application at [https://www.hydrogenplatform.com/sign-up]() and enter the details in the `.env` file:
+3. Register your application at [https://www.hydrogenplatform.com/sign-up]()
+
+Run the command:
+
+```
+cp .env.example .env`
+```
+
+And enter the details in the `.env` file:
 
 ```
 ;
