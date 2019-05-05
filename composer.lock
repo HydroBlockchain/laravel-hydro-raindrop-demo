@@ -4,11 +4,11 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "142fcefc1c38d797db159d7c70556662",
+    "content-hash": "da59d5e3a4b1cac00ff2a698db9c7a4c",
     "packages": [
         {
             "name": "adrenth/laravel-hydro-raindrop",
-            "version": "dev-master",
+            "version": "1.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/adrenth/laravel-hydro-raindrop.git",
@@ -4770,9 +4770,7 @@
     ],
     "aliases": [],
     "minimum-stability": "dev",
-    "stability-flags": {
-        "adrenth/laravel-hydro-raindrop": 20
-    },
+    "stability-flags": [],
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
